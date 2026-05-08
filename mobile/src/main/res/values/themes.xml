@@ -19,54 +19,53 @@
     </style>
 
     <style name="openHAB.DayNight.orange" parent="openHAB.DayNight.Base">
-        <!-- Palette created with https://m3.material.io/theme-builder#/custom -->
-        <item name="colorPrimary">#B02F00</item>
+        <item name="colorPrimary">#1A6FCC</item>
         <item name="colorOnPrimary">#FFFFFF</item>
-        <item name="colorPrimaryContainer">#FFDBD1</item>
-        <item name="colorOnPrimaryContainer">#3B0900</item>
-        <item name="colorSecondary">#B22C01</item>
+        <item name="colorPrimaryContainer">#D6E8FF</item>
+        <item name="colorOnPrimaryContainer">#002E6B</item>
+        <item name="colorSecondary">#2D87F0</item>
         <item name="colorOnSecondary">#FFFFFF</item>
-        <item name="colorSecondaryContainer">#FFDBD1</item>
-        <item name="colorOnSecondaryContainer">#3B0800</item>
+        <item name="colorSecondaryContainer">#D6E8FF</item>
+        <item name="colorOnSecondaryContainer">#002E6B</item>
         <item name="colorError">#BA1A1A</item>
         <item name="colorErrorContainer">#FFDAD6</item>
         <item name="colorOnError">#FFFFFF</item>
         <item name="colorOnErrorContainer">#410002</item>
         <item name="android:colorBackground">@color/background_default_theme_light</item>
         <item name="colorOnBackground">@color/on_background_default_theme_light</item>
-        <item name="colorSurface">#FFFBFF</item>
-        <item name="colorOnSurface">#201A18</item>
-        <item name="colorSurfaceVariant">#F5DED8</item>
-        <item name="colorOnSurfaceVariant">#53433F</item>
-        <item name="colorOutline">#85736E</item>
-        <item name="colorOnSurfaceInverse">#FBEEEB</item>
-        <item name="colorSurfaceInverse">#362F2D</item>
-        <item name="colorPrimaryInverse">#FFB5A0</item>
+        <item name="colorSurface">#F5F7FA</item>
+        <item name="colorOnSurface">#0A0F1E</item>
+        <item name="colorSurfaceVariant">#D6E4F7</item>
+        <item name="colorOnSurfaceVariant">#1A3A5C</item>
+        <item name="colorOutline">#4A7AAF</item>
+        <item name="colorOnSurfaceInverse">#E8F0FC</item>
+        <item name="colorSurfaceInverse">#0D1B35</item>
+        <item name="colorPrimaryInverse">#90C2FF</item>
     </style>
 
     <style name="openHAB.DayNight.basicui" parent="openHAB.DayNight.Base">
-        <item name="colorPrimary">#4355B9</item>
+        <item name="colorPrimary">#1A6FCC</item>
         <item name="colorOnPrimary">#FFFFFF</item>
-        <item name="colorPrimaryContainer">#DEE0FF</item>
-        <item name="colorOnPrimaryContainer">#00105C</item>
-        <item name="colorSecondary">#BB0054</item>
+        <item name="colorPrimaryContainer">#D6E8FF</item>
+        <item name="colorOnPrimaryContainer">#002E6B</item>
+        <item name="colorSecondary">#2D87F0</item>
         <item name="colorOnSecondary">#FFFFFF</item>
-        <item name="colorSecondaryContainer">#FFD9DF</item>
-        <item name="colorOnSecondaryContainer">#3F0018</item>
+        <item name="colorSecondaryContainer">#D6E8FF</item>
+        <item name="colorOnSecondaryContainer">#002E6B</item>
         <item name="colorError">#BA1A1A</item>
         <item name="colorErrorContainer">#FFDAD6</item>
         <item name="colorOnError">#FFFFFF</item>
         <item name="colorOnErrorContainer">#410002</item>
         <item name="android:colorBackground">@color/background_basicui_theme_light</item>
         <item name="colorOnBackground">@color/on_background_basicui_theme_light</item>
-        <item name="colorSurface">#FEFBFF</item>
-        <item name="colorOnSurface">#1B1B1F</item>
-        <item name="colorSurfaceVariant">#E3E1EC</item>
-        <item name="colorOnSurfaceVariant">#46464F</item>
-        <item name="colorOutline">#767680</item>
-        <item name="colorOnSurfaceInverse">#F3F0F4</item>
-        <item name="colorSurfaceInverse">#303034</item>
-        <item name="colorPrimaryInverse">#BAC3FF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#1A1A2E</item>
+        <item name="colorSurfaceVariant">#E0EAFA</item>
+        <item name="colorOnSurfaceVariant">#1A3A5C</item>
+        <item name="colorOutline">#4A7AAF</item>
+        <item name="colorOnSurfaceInverse">#F0F4FF</item>
+        <item name="colorSurfaceInverse">#0D1421</item>
+        <item name="colorPrimaryInverse">#90C2FF</item>
     </style>
 
     <style name="openHAB.DayNight.Black.orange" parent="openHAB.DayNight.orange">
@@ -97,5 +96,4 @@
     <style name="Theme.MaterialComponents.Translucent" parent="Theme.MaterialComponents.TranslucentBase">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
-
 </resources>
