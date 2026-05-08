@@ -4,7 +4,7 @@
     <!-- See: https://github.com/openhab/openhab-android/blob/main/README.md#localization -->
 
     <!-- General app strings -->
-    <string name="openhab" translatable="false">openHAB</string>
+    <string name="openhab" translatable="false">HomixCore</string>
     <string name="app_preferences_name">Settings</string>
     <string name="empty_string" translatable="false" />
     <string name="save">Save</string>
@@ -227,7 +227,7 @@
     <string name="error_http_code_507" tools:keep="@string/error_http_code_507">The openHAB server hasn\'t enough free space (HTTP code %d)</string>
     <string name="error_http_code_511" tools:keep="@string/error_http_code_511">Network authentication is required (HTTP code %d)</string>
     <!-- Short error strings without hints how to fix it, e.g. for notification -->
-    <string name="error_short_openhab_offline">openHAB is offline</string>
+    <string name="error_short_openhab_offline">HomixCore is offline</string>
     <string name="error_short_http_connection_failed">HTTP code %d</string>
     <string name="error_short_unable_to_resolve_hostname">Error resolving hostname</string>
     <string name="error_short_unknown">Unknown error: %s</string>
@@ -481,7 +481,7 @@
     <string name="about_title">About</string>
     <string name="about_license_title">License</string>
     <string name="about_license" translatable="false">Eclipse Public License - v 2.0</string>
-    <string name="about_copyright" translatable="false">© 2012 - %s openHAB community</string>
+    <string name="about_copyright" translatable="false">© 2012 - %s HomixCore community</string>
     <string name="about_changelog">Changelog</string>
     <string name="about_source_code">Source code</string>
     <string name="about_issues">Report an issue</string>
@@ -546,8 +546,8 @@
 
     <!-- Intro strings -->
     <string name="app_intro">Intro</string>
-    <string name="intro_welcome">Welcome to openHAB</string>
-    <string name="intro_welcome_back">Welcome back to openHAB</string>
+    <string name="intro_welcome">Welcome to HomixCore</string>
+    <string name="intro_welcome_back">Welcome back to HomixCore</string>
     <string name="intro_app_restored">Most of your settings have been restored, except the server credentials</string>
     <string name="intro_whatis">A vendor and technology agnostic open source automation software for your home</string>
     <string name="intro_voice_description">Control your home with your voice</string>
