@@ -36,12 +36,12 @@ android {
     namespace "org.openhab.habdroid"
 
     defaultConfig {
-        applicationId "org.openhab.habdroid"
+        applicationId "org.homixcore.habdroid"
         minSdkVersion 21
         compileSdk 35
         targetSdkVersion 35
         versionCode 592
-        versionName "3.20.2-beta"
+        versionName "1.0.0"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField "long", "TIMESTAMP", System.getenv("SOURCE_DATE_EPOCH") != null ? System.getenv("SOURCE_DATE_EPOCH").toLong() + "L" : System.currentTimeMillis() + "L"
